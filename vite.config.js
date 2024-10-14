@@ -14,4 +14,5 @@ export default defineConfig({
     react(),
     flowPlugin()
   ],
+  base: '/react-vite-site/'
 })
